@@ -1,0 +1,3 @@
+C:\Users\rkusu\GitHub\Dev\WorkingPlace\Prog1_safe_variant\Prog1\Graphics\Debug\Graphics.vcxproj.AssemblyReference.cache
+C:\Users\rkusu\GitHub\Dev\WorkingPlace\Prog1_safe_variant\Prog1\Graphics\Debug\Graphics.MyForm.resources
+C:\Users\rkusu\GitHub\Dev\WorkingPlace\Prog1_safe_variant\Prog1\Graphics\Debug\Graphics.vcxproj.GenerateResource.cache
