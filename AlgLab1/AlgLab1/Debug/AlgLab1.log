@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(79,8): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(115,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(126,11): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\rkusu\source\repos\AlgLab1\AlgLab1\main.cpp(116,6): warning C4101: random: неиспользованная локальная переменная
+  AlgLab1.vcxproj -> C:\Users\rkusu\source\repos\AlgLab1\Debug\AlgLab1.exe
