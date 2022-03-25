@@ -1,0 +1,16 @@
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.csproj.AssemblyReference.cache
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.Form1.resources
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.csproj.GenerateResource.cache
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.AssemblyInfoInputs.cache
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.AssemblyInfo.cs
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.csproj.CoreCompileInputs.cache
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.exe
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.deps.json
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.runtimeconfig.json
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.runtimeconfig.dev.json
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.dll
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\bin\Debug\netcoreapp3.1\KursachSortirovki.pdb
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.dll
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.pdb
+C:\Users\rkusu\source\repos\KursachSortirovki\KursachSortirovki\obj\Debug\netcoreapp3.1\KursachSortirovki.genruntimeconfig.cache
